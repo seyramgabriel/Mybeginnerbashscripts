@@ -1,1 +1,0 @@
-echo she is beautiful	
